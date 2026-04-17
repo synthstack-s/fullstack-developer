@@ -3,4 +3,4 @@ fullstack developer
 - tempat uji coba
 - tempat eksperimen
 - tempat me time
-- kolaborasi
+- membuat web
